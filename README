@@ -1,0 +1,18 @@
+We will devide project into
+1) scraping websites (probably inspect each website manually,then scrapping "article" data with beautiful soup from html,
+ then make a "data sink" in one format)
+    > prepapre lists of websites 
+2) make filtering : make interface for adding personal filters based on topic of interest, then use smth like open ai embedding model
+for sematic search (topic -> data pool)
+3) Ship this formated stuff to the bot (define article format)! 
+
+
+
+
+
+----
+websites to scrape:  
+https://www.nasaspaceflight.com
+https://www.spacedaily.com
+https://www.space.com
+https://spaceflightnow.com
