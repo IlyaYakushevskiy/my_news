@@ -8,6 +8,8 @@ for sematic search (topic -> data pool)
 
 
 
+to install requirements:
+pip install -r requirements.txt
 
 
 ----
