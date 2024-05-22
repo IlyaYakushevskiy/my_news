@@ -1,3 +1,10 @@
+This is "my Personally filtered news feed", which we made for Project and Seminars course "Python for Engineers" with my team-mates. 
+
+We scraped space-news websites and used a bit of NLP(embeddings pretrained model from HF + cosine similarity) to choose the best articles for our taste and send them to Telegram channel https://t.me/nspcp . 
+
+
+
+Organisation : 
 We will devide project into
 1) scraping websites (probably inspect each website manually,then scrapping "article" data with beautiful soup from html,
  then make a "data sink" in one format)
